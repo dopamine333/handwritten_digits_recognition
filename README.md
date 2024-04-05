@@ -24,6 +24,11 @@ This program utilizes NumPy for implementing handwritten font recognition and Py
 # Handwritten Font Recognition Program
 
 This program utilizes NumPy for implementing handwritten font recognition and Pygame for an interactive interface.
+<div style="text-align: center;">
+    <img src="images/handwritten_digital_2.png" alt="drawing" width="200" />
+    <img src="images/handwritten_digital_3.png" alt="drawing" width="200" />
+    <img src="images/handwritten_digital_5.png" alt="drawing" width="200" />
+</div>
 
 As you follow **Getting Started with this Project** below execute `python setup_and_run.py` a Pygame window will appear. Use your mouse to write numbers on the black canvas area, and click on the remaining gray areas to refresh. Each small square above shows the probability of each number.
 
